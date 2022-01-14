@@ -4,3 +4,4 @@
 - You can reach me via email ( canada@riseup.net )
 - You can reach me via Instagram ( <a href="https://instagram.com/surtains" rel="noreferrer noopener" target="_blank">@surtains</a> )
 - You can reach me via Twitter ( <a href="https://twitter.com/askewing" rel="noreferrer noopener" target="_blank">@askewing</a> )
+- You can reach me via Telegram ( <a href="https://t.me/surtains" rel="noreferrer noopener" target="_blank">@surtains</a> )
