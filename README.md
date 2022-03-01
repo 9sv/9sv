@@ -9,4 +9,4 @@
 - Twitter ( <a href="https://twitter.com/askewing">@askewing</a> )
 - Telegram ( <a href="https://t.me/surtains">@surtains</a> )
 
-You may also contact me via email ( <a href="mailto:5ec8da1d-2e72-44f6-923d-f695c35025ca@surtains.anonaddy.com">surtains@riseup.net</a> )
+You may also contact me via email ( <a href="mailto:5ec8da1d-2e72-44f6-923d-f695c35025ca@surtains.anonaddy.com">5ec8da1d-2e72-44f6-923d-f695c35025ca@surtains.anonaddy.com</a> )
