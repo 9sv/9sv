@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Surtains</h1>
-<h3 align="center">If you came here from Discord to boost your ego, You're weird. If not, Welcome to my GitHub.</h3>
 <h4 align="center">Python demon.</h3>
 
 <h4>My Profiles:</h4>
