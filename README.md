@@ -8,3 +8,4 @@
 You may also contact me via email ( <a href="mailto:5ec8da1d-2e72-44f6-923d-f695c35025ca@surtains.anonaddy.com">5ec8da1d-2e72-44f6-923d-f695c35025ca@surtains.anonaddy.com</a> )
 
 [![Surtains GitHub stats](https://github-readme-stats.vercel.app/api?username=9sv&theme=github_dark)](https://github.com/9sv)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9sv&layout=compact)](https://github.com/9sv)
