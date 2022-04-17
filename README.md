@@ -9,4 +9,4 @@ You may also contact me via email ( <a href="mailto:tragedy@intigriti.me">traged
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
-[![Surtains GitHub stats](https://github-readme-stats.vercel.app/api?username=9sv&theme=github_dark&show_icons=true)](https://github.com/9sv)
+[![Surtains GitHub stats](https://github-readme-stats.vercel.app/api?username=drooling&theme=github_dark&show_icons=true)](https://github.com/drooling)
