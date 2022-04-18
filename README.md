@@ -2,7 +2,7 @@
 
 - TryHackMe ( <a href="https://tryhackme.com/p/Surtains">@surtains</a> )
 - Instagram ( <a href="https://instagram.com/surtains">@surtains</a> )
-- Twitter ( <a href="https://twitter.com/askewing">@askewing</a> )
+- Twitter ( <a href="https://twitter.com/criminuh">@criminuh</a> )
 - Telegram ( <a href="https://t.me/grouchy">@grouchy</a> )
 
 You may also contact me via email ( <a href="mailto:tragedy@intigriti.me">tragedy@intigriti.me</a> )
